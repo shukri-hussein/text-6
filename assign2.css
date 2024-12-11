@@ -1,0 +1,30 @@
+*{
+    background-color: rgb(31, 174, 221);
+}
+.con1{
+    width: 300px;
+ 
+}
+
+p{
+    background-color: whitesmoke;
+    height: 500px;
+    font-size: 1.5em;
+    text-align: center;
+    padding-top: 50px;
+    border-radius: 20px;
+    color: blue;
+}
+button{
+    /* border: 3px brown solid; */
+    border-radius: none;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.co{
+    display: flex;
+   gap: 40px;
+   margin-left: 130px;
+   padding-right: 30px;
+}

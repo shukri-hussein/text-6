@@ -1,0 +1,99 @@
+.box1{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-between;
+}
+.box1 i{
+    padding-top: 30px;  
+}
+.box1 h1{
+    padding-right: 250px;
+}
+
+
+.btn{
+    margin-top: 25px;
+}
+.b{ 
+    background-color: transparent;
+    border: none ;
+    font-size: 1em;
+
+}
+.Rg{
+    padding: 15px  40px;
+    background-color: lightblue;
+    border-radius: 10px ;
+}
+
+ul{
+    display: flex;
+    gap: 50px;
+    font-size: 2em;
+    font-weight: 500px;
+    list-style: none;
+}
+/* .box2{
+    /* background-color: rgb(122, 231, 233); */
+    /* padding: 40px; */
+    /* border-radius: 10px; */
+    /* width: 10%; */
+    /* display: flex; */
+    /* border: 10px lightskyblue; */ */
+
+/* } */
+
+.box3{
+    /* background-color: rgb(122, 231, 233); */
+    padding: 40px;
+    border-radius: 10px;
+    width: 10%;
+    display: flex;
+    background-color: transparent !important;
+
+}
+.box5{
+    display: flex;
+    width: 200px;
+    padding: 150px;
+}
+/* .bo6 img{ */
+    /* width: 200px; */
+
+/* } */
+span{
+    color: blue ;
+}
+/* 
+.boxes{
+    display: flex; 
+    width: 200px;
+    padding: 150px;
+} */
+
+/* p{
+    width: 200px;
+    padding-bottom: 700px;
+} */
+
+.icon{
+    display: flex; 
+    gap: 10px;
+    padding-top: 13px;
+}
+.box5{
+    width: 300px;
+    height: 200px;
+
+}
+.box6{
+    width: 300px;
+    height: 200px;
+    margin-top: 150px;
+}
+.boxes{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: azure;
+}
